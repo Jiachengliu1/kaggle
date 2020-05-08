@@ -1,0 +1,2 @@
+See Netflix Prize data at https://www.kaggle.com/netflix-inc/netflix-prize-data.
+See notebook Exploratory Analysis part (cell 7 to 9) to access intermediate data for EDA.
